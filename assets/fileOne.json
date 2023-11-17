@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 31.6948,
+    "lat": 26.557
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 299.31,
+    "feels_like": 299.31,
+    "temp_min": 299.31,
+    "temp_max": 299.31,
+    "pressure": 1016,
+    "humidity": 41,
+    "sea_level": 1016,
+    "grnd_level": 1008
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.81,
+    "deg": 332,
+    "gust": 10.13
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1700148791,
+  "sys": {
+    "type": 1,
+    "id": 2548,
+    "country": "EG",
+    "sunrise": 1700107972,
+    "sunset": 1700146991
+  },
+  "timezone": 7200,
+  "id": 347796,
+  "name": "Sohag",
+  "cod": 200
+}
