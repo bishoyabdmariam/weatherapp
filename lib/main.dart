@@ -3,7 +3,8 @@ import 'package:get/get.dart';
 import 'package:weatherapp/pages/home/home_screen.dart';
 import 'package:weatherapp/utils/binding/HomeBinding.dart';
 
-void main() {
+void main() async {
+  await WidgetsFlutterBinding.ensureInitialized();
   runApp(WeatherApp());
 }
 
